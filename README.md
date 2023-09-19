@@ -1,2 +1,2 @@
 # projekt
-[](https://davidfede.github.io/projekt/)
+[PLAY](https://davidfede.github.io/projekt/)
