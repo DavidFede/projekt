@@ -34,12 +34,18 @@ html {
 #cookie:hover {
     transform: scale(1.1);
 }
-#cookie:hover, #clickUpgrade:hover {
+#cookie:hover, #clickUpgrade:hover, #autoClicker:hover {
     transform: scale(1.1);
 }
 #clickUpgrade {
     font-size: 24px;
-    border: none;
+    cursor: pointer;
+    background-color: rgb(95, 172, 44);
+    transition: .3s ease;
+}
+
+#autoClicker {
+    font-size: 24px;
     cursor: pointer;
     background-color: rgb(95, 172, 44);
     transition: .3s ease;
